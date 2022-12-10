@@ -1,0 +1,5 @@
+- 👋 Hi, I’m .zevs
+- 👀 I’m interested in JavaScript and HTML.
+- 🌱 I’m currently learning HTML,CSS.
+- 📫 How to reach me: Discord: .zevs#1337
+- My current projects are: discord bot(Roby) and my development.
